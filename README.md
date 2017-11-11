@@ -1,3 +1,3 @@
 # Trailing Average Sensor
 
-A simple CraftBeerPi sensor that averages prior sensor readings.  Reduces volatility in sensor readings, especially useful for fermenters.
+A simple CraftBeerPi sensor that reduces sensor data volatility by providing a running average of sensor readings. Especially useful for fermenters.
